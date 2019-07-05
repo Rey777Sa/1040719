@@ -2,8 +2,10 @@
     <string name="app_name">Registro</string>
     <string name="txt1">Inserta tu Nombre</string>
     <string name="txt2"></string>
-    <string name="txt3">Insrta tu Apellido</string>
+    <string name="txt3">Inserta tu Apellido</string>
     <string name="txt4"></string>
+    <string name="txt5">Inserta tu contraseña</string>
+
 
 
 
